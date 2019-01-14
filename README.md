@@ -1,4 +1,5 @@
 # brainfuck Interpreter
+Minimal interpreter with 320 Bytes size.
 
 ## Commands
 
