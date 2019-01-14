@@ -1,6 +1,6 @@
-#brainfuck Interpreter
+# brainfuck Interpreter
 
-###Commands
+## Commands
 
 ````html
 >	- OK	
